@@ -19,20 +19,20 @@ Este é um projeto simples de lista de tarefas (Todo List) construído utilizand
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/vsiscaro/todo-list-js-and-react.git
+   `git clone https://github.com/vsiscaro/todo-list-js-and-react.git`
    ```
 
 2. Navegue até o diretório do projeto:
 
-```bash
-   `cd todo-list-js-and-react`
-```
+   ```bash
+      `cd todo-list-js-and-react`
+   ```
 
 3. Instale as dependências:
 
-```bash
-   `npm install`
-```
+   ```bash
+      `npm install`
+   ```
 
 4. Inicie o servidor de desenvolvimento:
 
